@@ -4,7 +4,7 @@
 <h3 align="center">An aspiring frontend developer from Pune, India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 
-- 🔭 I have completed my basic prooject that is [Calculator Project](https://github.com/shashikant190/Calculator-Program)
+- 🔭 I have completed my basic project that is [Calculator Project](https://github.com/shashikant190/Calculator-Program)
 
 - 🌱 I’m currently learning **Python, and also doing some Programming Courses**
 
